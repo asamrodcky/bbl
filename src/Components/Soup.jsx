@@ -3,7 +3,7 @@ import { Link, Element } from 'react-scroll';
 const Soup = () => {
     return (
         <Element name="aboutsoup">
-            <section style={{ height: '100vh', backgroundColor: '#FFC897', padding: "100px" }}>
+            <section style={{ height: '1500px', backgroundColor: '#FFC897', padding: "100px" }}>
                 <h1 class="text-xl">History & Culture</h1>
                 <br/>
                 <div>
