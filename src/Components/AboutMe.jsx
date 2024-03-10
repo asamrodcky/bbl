@@ -1,5 +1,4 @@
 import { Link, Element } from 'react-scroll';
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 const AboutMe = () => {
     return (
