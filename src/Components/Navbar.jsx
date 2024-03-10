@@ -7,7 +7,7 @@ function Navbar0() {
     return (
         <Navbar sticky="top" expand="lg" className="bg-body-tertiary">
             <Container>
-                <Navbar.Brand href="/">BBL</Navbar.Brand>
+                <Navbar.Brand href="/">Feijoada by GR</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="mx-auto">
